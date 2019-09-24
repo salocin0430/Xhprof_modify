@@ -1,4 +1,4 @@
-IMPORTAT
+IMPORTANT
 =========
 important
 This is just a copy with some modifications, the rights are totally directed to:  https://github.com/preinheimer/xhprof
